@@ -13,7 +13,7 @@
 		{
 			"url": "https://github.com/Xargs007/Customexe",
 			"repo_name": "Custom Exe",
-			"repo_path": "./",
+			"repo_path": "./expansions/Pegar_Todo_En_Esta_Carpeta_En_La_Principal_Del_Juego",
 			"has_core": false,
 			"data_path": "",
 			"should_update": true,
