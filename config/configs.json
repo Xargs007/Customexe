@@ -11,9 +11,9 @@
 			"should_read": true
 		},
 		{
-			"url": "https://github.com/Xargs007/Customexe,
+			"url": "https://github.com/Xargs007/Customexe",
 			"repo_name": "Custom Exe",
-			"repo_path": "",
+			"repo_path": "./",
 			"has_core": false,
 			"data_path": "",
 			"should_update": true,
