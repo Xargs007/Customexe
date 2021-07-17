@@ -3,8 +3,17 @@
 	[
 		{
 			"url": "https://github.com/Xargs007/CardsCustom",
-			"repo_name": "custom",
+			"repo_name": "Custom Cards",
 			"repo_path": "./expansions/NakamasCustom",
+			"has_core": false,
+			"data_path": "",
+			"should_update": true,
+			"should_read": true
+		},
+		{
+			"url": "https://github.com/Xargs007/Customexe,
+			"repo_name": "Custom Exe",
+			"repo_path": "",
 			"has_core": false,
 			"data_path": "",
 			"should_update": true,
