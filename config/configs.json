@@ -11,6 +11,15 @@
 			"should_read": true
 		},
 		{
+			"url": "https://github.com/Xargs007/NewExpantions",
+			"repo_name": "Custom Cards",
+			"repo_path": "./expansions/NewExpantions",
+			"has_core": false,
+			"data_path": "",
+			"should_update": true,
+			"should_read": true
+		},
+		{
 			"url": "https://github.com/Xargs007/Customexe",
 			"repo_name": "Custom Exe",
 			"repo_path": "./expansions/Pegar_Todo_En_Esta_Carpeta_En_La_Principal_Del_Juego",
@@ -84,7 +93,7 @@
       "type": "pic"
 	},
 	{
-      "url": "https://storage.googleapis.com/ygoprodeck.com/pics/{}.jpg",
+      "url": "https://images.ygoprodeck.com/images/cards/{}.jpg",
       "type": "pic"
 	},
 		{
